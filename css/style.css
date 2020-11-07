@@ -1,0 +1,70 @@
+body{
+  background: #04A1BF;
+  text-align: center;
+}
+
+.position{
+  width: 100%;
+  margin-top: 20px;
+
+}
+h1{
+  color:white;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+h4{
+  margin-top: 20px;
+  font-weight: 400;
+}
+.margin{
+  margin-top: 20px;
+}
+
+ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+li {
+ text-transform: capitalize;
+	width: 80%;
+	margin-top: 30px;
+  border: 2px solid black;
+  margin: auto;
+  text-align: left;
+
+}
+
+li > button {
+ font-weight: normal;
+ background: none;
+ border: none;
+ float: right;
+ color: #025f70;
+ font-weight: 900;
+}
+
+ li  > span {
+
+  justify-content: flex-end;
+
+}
+li:hover{
+  background: #106d91;
+}
+
+#first_h4{
+  color:yellow;
+}
+
+
+#second_h4{
+  color:#26fcaa;
+}
+
+
+#third_h4{
+  color:#025F70;
+}
